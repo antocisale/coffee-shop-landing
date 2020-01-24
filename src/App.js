@@ -12,6 +12,7 @@ function App() {
         <p className="subtitle">Serving only the best since 2019</p>
       </Parallax>
       <CoffeePart2></CoffeePart2>
+     
     </div>
   );
 }

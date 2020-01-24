@@ -1,0 +1,35 @@
+.part2{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height:663px;
+    padding: 160px 0 130px 0;
+    background-size: cover;
+    .part2-cups{
+        display:flex;
+        justify-content: space-around;
+        align-items: center;
+        width:70%;
+        align-self: center;
+    }
+    .part2-titles{
+        width:35%;
+        align-items: center;
+        justify-content: center;
+        padding-left: 250px;
+        padding-bottom: 80px;
+    }
+}
+
+.section-titles{
+    font-size: 35px;
+    text-align: center;
+    color:#212529;
+}
+
+.section-subtitles{
+    font: size 17px;
+    font-family: 'Nunito', sans-serif;
+    color: #767676;
+    text-align:center;
+}

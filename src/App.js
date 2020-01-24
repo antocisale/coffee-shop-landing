@@ -1,24 +1,17 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Parallax from './Sections/Parallax/Parallax'
+import ParallaxImg1 from './Images/hero-background.jpg';
+import CoffeePart2 from './Sections/CoffeePart2/CoffeePart2';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Parallax image={ParallaxImg1}>
+        <h1 className="main-title">Portwell, Inc.</h1>
+        <p className="subtitle">Serving only the best since 2019</p>
+      </Parallax>
+      <CoffeePart2></CoffeePart2>
     </div>
   );
 }

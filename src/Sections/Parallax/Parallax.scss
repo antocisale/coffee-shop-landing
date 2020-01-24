@@ -1,0 +1,15 @@
+.parallax-effect{
+    height:600px;
+    width:100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    flex-direction: column;
+    
+    background-blend-mode: darken;
+    
+}

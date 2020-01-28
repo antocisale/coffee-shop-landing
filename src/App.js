@@ -6,6 +6,11 @@ import CoffeePart2 from './Sections/CoffeePart2/CoffeePart2';
 import OurStoryImg from './Images/story-background.jpg';
 import OurStory from './Sections/OurStory/OurStory';
 import FreshBeans from './Sections/FreshBeans/FreshBeans';
+import GreatCoffee from './Sections/GreatCoffee/GreatCoffee'
+import TheBestCoffee from './Sections/TheBestCoffee/TheBestCoffee';
+import Gallery from './Sections/Gallery/Gallery';
+import Blog from './Sections/Blog/Blog';
+
 
 function App() {
   return (
@@ -17,6 +22,10 @@ function App() {
       <CoffeePart2></CoffeePart2>
       <OurStory image={OurStoryImg} altImg="Cup of Coffee"></OurStory>
       <FreshBeans></FreshBeans>
+      <GreatCoffee></GreatCoffee>
+      <TheBestCoffee></TheBestCoffee>
+      <Gallery></Gallery>
+      <Blog></Blog>
     </div>
   );
 }

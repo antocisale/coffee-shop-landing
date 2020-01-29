@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/coffee-shop-landing/static/css/main.1eb5b964.chunk.css",
-    "main.js": "/coffee-shop-landing/static/js/main.534f8980.chunk.js",
-    "main.js.map": "/coffee-shop-landing/static/js/main.534f8980.chunk.js.map",
+    "main.js": "/coffee-shop-landing/static/js/main.f5524789.chunk.js",
+    "main.js.map": "/coffee-shop-landing/static/js/main.f5524789.chunk.js.map",
     "runtime-main.js": "/coffee-shop-landing/static/js/runtime-main.97a35906.js",
     "runtime-main.js.map": "/coffee-shop-landing/static/js/runtime-main.97a35906.js.map",
     "static/js/2.d40d59e4.chunk.js": "/coffee-shop-landing/static/js/2.d40d59e4.chunk.js",
     "static/js/2.d40d59e4.chunk.js.map": "/coffee-shop-landing/static/js/2.d40d59e4.chunk.js.map",
     "index.html": "/coffee-shop-landing/index.html",
-    "precache-manifest.8535a70e9215ad5284de2d2f87186d9a.js": "/coffee-shop-landing/precache-manifest.8535a70e9215ad5284de2d2f87186d9a.js",
+    "precache-manifest.f4a6899ca0764b08ebf22af38a8b590f.js": "/coffee-shop-landing/precache-manifest.f4a6899ca0764b08ebf22af38a8b590f.js",
     "service-worker.js": "/coffee-shop-landing/service-worker.js",
     "static/css/main.1eb5b964.chunk.css.map": "/coffee-shop-landing/static/css/main.1eb5b964.chunk.css.map",
     "static/js/2.d40d59e4.chunk.js.LICENSE": "/coffee-shop-landing/static/js/2.d40d59e4.chunk.js.LICENSE",
     "static/media/card1.jpeg": "/coffee-shop-landing/static/media/card1.1d1c6d8a.jpeg",
     "static/media/card2.jpeg": "/coffee-shop-landing/static/media/card2.7be8540f.jpeg",
-    "static/media/card3.jpeg": "/coffee-shop-landing/static/media/card3.8e696034.jpeg",
+    "static/media/card3.jpeg": "/coffee-shop-landing/static/media/card3.13d8b4dc.jpeg",
     "static/media/coffeeCup-background.jpg": "/coffee-shop-landing/static/media/coffeeCup-background.f4b5c944.jpg",
     "static/media/coffeeCup1.png": "/coffee-shop-landing/static/media/coffeeCup1.a4bd8eab.png",
     "static/media/coffeeCup2.png": "/coffee-shop-landing/static/media/coffeeCup2.e71c38ac.png",
@@ -33,6 +33,6 @@
     "static/js/runtime-main.97a35906.js",
     "static/js/2.d40d59e4.chunk.js",
     "static/css/main.1eb5b964.chunk.css",
-    "static/js/main.534f8980.chunk.js"
+    "static/js/main.f5524789.chunk.js"
   ]
 }

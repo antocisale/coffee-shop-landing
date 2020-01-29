@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "77ae9ec06e4a8c4134c6217262179fa4",
+    "revision": "40bf2023a4c5ff417b81732286be36c4",
     "url": "/coffee-shop-landing/index.html"
   },
   {
-    "revision": "580462d00d81587ed97f",
+    "revision": "fc778edb6051d9068e9a",
     "url": "/coffee-shop-landing/static/css/main.1eb5b964.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coffee-shop-landing/static/js/2.d40d59e4.chunk.js.LICENSE"
   },
   {
-    "revision": "580462d00d81587ed97f",
-    "url": "/coffee-shop-landing/static/js/main.38359f90.chunk.js"
+    "revision": "fc778edb6051d9068e9a",
+    "url": "/coffee-shop-landing/static/js/main.534f8980.chunk.js"
   },
   {
     "revision": "843739b526d56609ca1d",

@@ -7,7 +7,7 @@ import image3 from '../../Images/gallery_coffee_image_3.jpg';
 const Gallery = () =>{
     const imagenes=[image1,image2,image3];
     return(
-        <section>
+        <section className="gallery">
         {
             imagenes.map(imagen =>{
                 return <img src={imagen}/>

@@ -1,0 +1,39 @@
+.contact{
+    display:flex;
+    width:100%;
+    position:fixed;
+    bottom:0;
+    left:0;
+    z-index: -1;
+
+    
+}
+
+.contact-hours{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-left: 140px;
+    padding-top:100px;
+    div{
+        width:115px;
+    }
+    h4{
+        color:#daa37f
+    };
+    p{
+        color:#fff;
+        font-family:'Nunito',sans-serif;
+        font-size:12px;
+        
+    }
+}
+
+.contact-title{
+    text-align: left;
+}
+
+.contact-info{
+    background-color:#111;
+}
+

@@ -10,6 +10,7 @@ import GreatCoffee from './Sections/GreatCoffee/GreatCoffee'
 import TheBestCoffee from './Sections/TheBestCoffee/TheBestCoffee';
 import Gallery from './Sections/Gallery/Gallery';
 import Blog from './Sections/Blog/Blog';
+import Contact from './Sections/Contact/Contact';
 
 
 function App() {
@@ -26,6 +27,7 @@ function App() {
       <TheBestCoffee></TheBestCoffee>
       <Gallery></Gallery>
       <Blog></Blog>
+      <Contact></Contact>
     </div>
   );
 }

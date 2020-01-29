@@ -1,16 +1,25 @@
 .info{
-    width:30%;
+    width:50%;
     align-items: center;
     justify-content: center;
-    padding-left: 150px;
-    padding-bottom: 150px;
     text-align: justify;
+    padding-left:100px;
+    padding-right:100px;
+    box-sizing: border-box;
+
     a{
         text-decoration: none;
+        color: #212529;
         &:hover{
             cursor:pointer;
             font-weight:600;
         }
+    }
+    p{
+        margin-top:0;
+        font-family: 'Nunito', sans-serif;
+        color:#767676;
+        font-size: 15px;
     }
 }
 

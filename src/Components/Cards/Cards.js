@@ -3,7 +3,7 @@ import './Cards.scss';
 
 const Cards = props =>{
     return(
-        <article className="cofeeCup">
+        <article className="card">
             <img className="cup-img" src={props.CardImg} alt={props.ImgAlt}/>
             <h3>{props.CardTitle}</h3>
             <p>{props.CardDate}</p>

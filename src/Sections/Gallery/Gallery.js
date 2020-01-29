@@ -18,8 +18,7 @@ const Gallery = () => {
             alt: "coffee beans"
         },
     ];
-    return ( <
-        section className = "gallery" > {
+    return ( <section className = "gallery" > {
             imagenes.map(imagen => {
                 return <img src = {
                     imagen.foto
@@ -29,8 +28,7 @@ const Gallery = () => {
                 }
                 />
             })
-        } <
-        /section>
+        } </section>
     )
 }
 

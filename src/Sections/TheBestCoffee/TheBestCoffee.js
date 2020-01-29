@@ -19,7 +19,7 @@ const TheBestCoffee = ()=>{
                     <div className="icons-container">
                         {TheBestCoffeeIcons.map(icon=>{
                                 return <div>
-                                        <img src={icon.icon}/>
+                                        <img src={icon.icon} alt=""/>
                                         <h3>{icon.title}</h3>
                                     </div>
                                 

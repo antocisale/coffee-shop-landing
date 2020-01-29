@@ -4,7 +4,7 @@ import './CoffeeCup.scss';
 const CoffeeCups = props =>{
     return(
         <article className="cofeeCup">
-            <img className="cup-img" src={props.CoffeeCupImg}/>
+            <img className="cup-img" src={props.CoffeeCupImg} alt=""/>
             <h3>{props.CoffeeCupTitle}</h3>
             <p>{props.CoffeeCupInfo}</p>
         </article>
